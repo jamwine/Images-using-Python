@@ -1,2 +1,2 @@
 # Scikit-Image
-Learn the basics of Image Processing using Scikit-Image
+All about Image Processing using Python Imaging Library (PIL), Scikit-Image, OpenCV, PyTesseract, Kraken
